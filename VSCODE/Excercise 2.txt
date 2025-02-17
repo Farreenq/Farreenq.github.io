@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang = "en"></html>
+    <head>
+        <meta charset = "UTF-8">
+        <title> Resume</title>
+    </head>
+<body>
+    <h1>Farreen Qadus</h1>
+    <address>
+    <a href="farreenqadus22@gmail.com "> farreenqadus22@gmail.com</a> 
+    <p><a href="www.linkedin.com/in/farreen ">www.linkedin.com/in/farreen </a></p>
+    </address>
+   <hr>
+   <h2>Education</h2>
+   <P><b>University of Massachusetts Amherst <br> Isenberg School of Managemnt</b></P>
+   <p><em>Bachelor of Business Administration in Operation Information Management<br>Bachelor's Degree with Individual Concentration in UI/UX</em> </p>
+   <p> <li> Minor in Studio Art<br><li>Cumulative GPA 3.76; Dean’s list all semesters<br><li>Recipient of John & Abigail Adams Scholarshi<br><li>Recipient of the Mary Olive Wood Scholarship </li></p>
+
+
+   <p></p> <b>Relevant Coursework:</b><br> <i>English 391C - Web Design</i></b></p>
+   <p><li>Utilized HTML and CSS to design and develop responsive and accessible user-friendly websites.<br><li>Experienced in using GitHub for version control and web projects, ensuring efficient code management<br><li>Proficient in wireframing, developing sitemaps, and utilizing visual hierarchy to optimize user experience.</li></p>
+   <hr>
+   <h2>Experience</h2>
+   <p><b>Target Corp</b><br><i>Guest Advocate</i></p>
+   <p><li>Provide exceptional service in high volume stores in both cashier and service desk, problem-solving issues related to<br>returns and credit cards as well as receiving and organizing items for restocking<br><li>Collaborate with team to support processes with curbside delivery/returns/cashiering, pivoting to each task as needed<br><li>Increase credit card/reward program sign-ups while enhancing Target experience with effective promotional skills</li></p>
+
+
+   <p><b>UMass Bursar/Ucard Office</b><br><i>Office Assistant </i></p>
+   <p><li>Provided support to over 30+ customers daily with any UMass ID issues to improve the issuance process 
+    <br><li>Printed 10-15 new IDs for students/staff daily while ensuring the accuracy of student/staff information<br><li>Collaborated with team members to manage student information in UMass Databases with accuracy and efficiency</li></p>
+
+    <p><b>Pompeii Artistic Landscape Project </b><br> <i> Research Assisstant</i></p>
+    <p><li>Researched and described ancient artworks from Pompeii using digital maps, published text, and images from <br> Pompeii to aid in the creation of an interactive map 
+    <br><li>Utilized ArcGIS software to analyze visual data for key identifiers to enhance the usability of the interactive map. <br><li>Cataloged/systemized in Excel to include all relevant information about artwork for historical data collection </li></p>
+    
+    <hr>
+    <h2><b>EXTRACURRICULAR EXPERIENCE</b></h2>
+    <p><b>The UMass Design Club</b><br><i>Design Member</i></p>
+    <p><li>Attend 2-3 design workshops each semester to enhance my skills in new design software<br><li>Collaborate with club members to design logos for other clubs while enhancing my design skills</li></p>
+    
+    <hr>
+    <h2><b>Skills</b></h2>
+    <p><i>Computer:</i>High proficiency in Microsoft Office HTML/CSS</p>
+    <p><i>Language:</i>Urdu</p>
+
+  
+</body>
