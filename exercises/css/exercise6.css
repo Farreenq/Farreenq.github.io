@@ -36,17 +36,17 @@ main{
 }
 
 a:link{
-    color: deeppink;
+    color: #09401E;
     text-decoration: none; }
 a:visited {
-    color: #03d2e1 ;  
+    color: #302933 ;  
 }
 
 a:hover{
-    color: #c70039;
+    color: #5D151C;
     text-decoration: underline;
 }
 
 a:active {
-    color: darkcyan;
+    color: #384038;
 }
