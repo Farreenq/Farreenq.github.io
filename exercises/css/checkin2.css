@@ -48,13 +48,12 @@ main{
     margin: 2rem;
     margin-top: 0;
     background-color: rgb(208, 219, 228);
-    max-width: 60rem;
+    max-width: 45rem;
 }
 
 img {
     width: 100%;
     height: auto;
-    max-width: 100%;
   }
 
 a:link{
