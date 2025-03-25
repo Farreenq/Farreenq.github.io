@@ -1,0 +1,25 @@
+.wrapper {
+    border: 1px solid black;
+}
+
+header {
+    background-color: azure;
+}
+
+.emptyspaceleft {
+    background-color: blanchedalmond;
+}
+
+main {
+    background-color: cornsilk;
+}
+
+.emptyspaceright{
+    background-color: blanchedalmond;
+
+}
+
+footer {
+    background-color: lightgray;
+}
+
