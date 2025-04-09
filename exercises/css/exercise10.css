@@ -1,0 +1,51 @@
+h2{
+    text-align:center;
+    background-color: aliceblue;
+    padding:12px;
+    margin:0px;
+}
+
+h1{
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+nav li {
+    list-style-type:none;
+    background-color: beige;
+}
+
+nav a{
+    text-decoration: none;
+    color:lightgray;
+}
+
+nav a:hover{
+    color: palegoldenrod;
+    background-color:black;
+}
+
+nav ul{
+    display:flex;
+    justify-content:center;
+    background-color: black;
+    padding:25px;
+    margin:0;
+    flex-wrap:wrap;
+}
+
+nav a{
+    text-decoration:none;
+    color: lightgray;
+    padding:25px;
+}
+
+nav li{
+    list-style-type:none;
+    background-color:black;
+}
+
+
+
