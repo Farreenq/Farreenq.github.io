@@ -7,13 +7,16 @@ h2{
 
 h1{
     font-family: "EB Garamond", serif;
-    font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
 }
 
+main{
+    padding: 70px;
+}
+
 nav li {
-    list-style-type:none;
+    list-style-type: none;
     background-color: beige;
 }
 
@@ -46,6 +49,16 @@ nav li{
     list-style-type:none;
     background-color:black;
 }
+
+footer{
+    text-decoration: none;
+    color:lightgray;
+    background-color: black; 
+    padding:50px;
+    text-align:center;
+
+}
+
 
 
 
