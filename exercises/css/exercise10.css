@@ -11,6 +11,9 @@ h1{
     font-style: normal;
 }
 
+main{
+    padding:65px;
+}
 
 nav li {
     list-style-type: none;
