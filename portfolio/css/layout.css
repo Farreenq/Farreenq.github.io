@@ -6,7 +6,6 @@ body{
 .wrapper {
     display: flex;
     justify-content: space-between;
-    align-items: center;
   }
   
   .wrapper img {
@@ -80,7 +79,5 @@ a:hover{
 a:active {
     color: #384038;
 }
-
-
 
 
