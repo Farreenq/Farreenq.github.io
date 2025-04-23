@@ -9,8 +9,9 @@ body{
   }
   
   .wrapper img {
-    width: 300px;
+    width: 200px;
     height: auto;
+    border: red solid 2px;
   }
 
 main{
@@ -20,10 +21,10 @@ main{
 }
 
 p{
-    font-size: 40px;
+    font-size: 30px;
 }
 h1{ 
-    font-size: 80px;
+    font-size: 40px;
 }
 
 
@@ -63,6 +64,7 @@ footer{
     background-color: #86623b; 
     text-align:center;
     padding: 20px;
+    font-size: 20px;
 
 }
 a:link{
