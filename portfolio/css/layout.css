@@ -20,10 +20,10 @@ main{
 }
 
 p{
-    font-size: 20px;
+    font-size: 40px;
 }
 h1{ 
-    font-size: 50px;
+    font-size: 80px;
 }
 
 
@@ -79,5 +79,4 @@ a:hover{
 a:active {
     color: #384038;
 }
-
 
