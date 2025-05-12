@@ -1,0 +1,153 @@
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+  
+  body {
+    display: flex;
+    flex-direction: column;
+}
+
+.courier-prime-regular {
+    font-family: "Courier Prime", monospace;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+header {
+    height: 70px;
+    background-color: #86623b;
+}
+  
+.wrapper {
+    background-image: url("../../images/home.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    height: 100%; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+
+   color: white;
+   text-align: center;
+   padding-top: 70px;
+   padding-bottom: 50px;  
+   box-sizing: border-box;
+
+}
+
+main {
+    height: 810px;
+}
+
+header {
+    height: 75px;
+    background-color: #86623b;
+}
+
+.container {
+    display: inline-block;
+    white-space: nowrap;
+}
+  
+
+.typed-line {
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 1.6rem;
+    width: 0;
+    margin-top: -50px;
+}
+  
+.line0 {
+    font-size: 5rem;
+    animation: typing 2.5s steps(22, end) forwards, blink 0.7s step-end infinite;}
+
+.line1 {
+    animation: typing 3s steps(30, end) 2.7s forwards;
+    animation-fill-mode: forwards;
+    font-size: 3rem;
+}
+  
+
+.line2 {
+    animation: typing 3s steps(30, end) 6s forwards;
+    animation-fill-mode: forwards;
+    border-right: none;
+    margin-top: 5px;
+    font-size: 2rem;
+}
+  
+@keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+}
+
+
+
+
+nav li {
+    list-style-type: none;
+    background-color: #86623b;
+}
+
+nav a{
+    text-decoration: none;
+    color:white;
+}
+nav a:hover{
+    color: palegoldenrod;
+    background-color:#d4b594;
+}
+
+nav ul{
+    display:flex;
+    justify-content:center;
+    background-color: #86623b;
+    padding:25px;
+    margin:0;
+    flex-wrap:wrap;
+}
+
+nav a{
+    text-decoration:none;
+    color: white;
+    padding:25px;
+}
+
+
+footer {
+    height: 40px;
+    background-color: #86623b;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    font-size: small;
+}
+
+footer p {
+    font-size: 14px; 
+}
+
+a:link{
+    color: white;
+    text-decoration: none; }
+a:visited {
+    color: #eec8a5 ;  
+}
+
+a:hover{
+    color: #5D151C;
+    text-decoration: underline;
+}
+a:active {
+    color: #384038;
+}
+
