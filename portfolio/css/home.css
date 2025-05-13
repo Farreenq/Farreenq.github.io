@@ -1,5 +1,5 @@
 
-html, body {
+body {
     height: 100%;
     margin: 0;
 }
@@ -47,10 +47,6 @@ main {
     height: 810px;
 }
 
-header {
-    height: 75px;
-    background-color: #86623b;
-}
 
 .container {
     display: inline-block;
