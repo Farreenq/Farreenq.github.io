@@ -172,6 +172,24 @@ footer p {
     font-size: 14px; 
 }
 
+footer a:link {
+    color: #5D151C;
+    text-decoration: none;
+}
+
+footer a:visited {
+    color: #5a1215;
+}
+
+footer a:hover {
+    color: #110304;
+    text-decoration: underline;
+}
+
+footer a:active {
+    color: #e0727d;
+}
+
 .project-wrapper a:link {
     color: #5D151C;
     text-decoration: none;
