@@ -63,13 +63,13 @@ main {
 }
   
 .line0 {
-    font-size: 5rem;
+    font-size: 6rem;
     animation: typing 2.5s steps(22, end) forwards, blink 0.7s step-end infinite;}
 
 .line1 {
     animation: typing 3s steps(30, end) 2.7s forwards;
     animation-fill-mode: forwards;
-    font-size: 3rem;
+    font-size: 4rem;
 }
   
 
@@ -78,7 +78,7 @@ main {
     animation-fill-mode: forwards;
     border-right: none;
     margin-top: 5px;
-    font-size: 2rem;
+    font-size: 3rem;
 }
   
 @keyframes typing {
